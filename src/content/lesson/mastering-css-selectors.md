@@ -42,7 +42,7 @@ This "very specific" selectors will help you a lot.  They will be your best weap
 }
 ```
 
-This statement takes the paragraph tags that are children of the div and turns them blue.  Note that it only works for the *children* of that div – not necessarily for all of the descendants.  Let’s explore this further with the following example.
+This statement takes the paragraph tags that are children of the div and turns them blue.  Note that it only works for the *children* of that div – not necessarily for all the descendants.  Let’s explore this further with the following example.
 
 <iframe width="100%" height="300" src="//jsfiddle.net/BreatheCode/odku7nr9/embedded/html,css,result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
